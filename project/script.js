@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
     const addEvent = (eventType) => {
+
         const eventsContainer = document.querySelector(".secondFooter .date");
         const newEvent = document.createElement("div");
         newEvent.className = "date2";

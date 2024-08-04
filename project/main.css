@@ -11,6 +11,7 @@ body {
 
 .header {
     height: 17%;
+
     background-color: #54898f;
     display: flex;
     justify-content: space-around;
